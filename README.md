@@ -1,6 +1,6 @@
 # Minecraft PvP just got better!
 
-[![Available on Modrinth](https://img.shields.io/badge/Available_on-Modrinth-00AF5C?style=for-the-badge&logo=modrinth&logoColor=white)](https://modrinth.com/resourcepack/pvptweaks+/versions)
+[![Download on Modrinth](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/modrinth.svg)](https://modrinth.com/resourcepack/pvptweaks+/versions) [![Read the License](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/license.svg)](https://github.com/Evergreen-Labs-MC/PvP-Tweaks/blob/956ef2307bbc1e9db783f90cc5c0f6a0acf769ea/LICENSE.md) [![View on GitHub](https://raw.githubusercontent.com/Evergreen-Labs-MC/PvP-Tweaks/main/assets/badges/github.svg)](https://github.com/Evergreen-Labs-MC/PvP-Tweaks/tree/main)
 
 ## Description
 This resource pack bridges the gap between Minecraft's beautiful default aesthetic and high-performance competitive gameplay. Designed specifically for PvP enthusiasts who love the vanilla texture style, this pack introduces clean, subtle Quality-of-Life (QOL) enhancements. Every tweak is engineered to maximize screen real estate, improve situational awareness, and deliver buttery-smooth performance without sacrificing the game's classic charm. 
