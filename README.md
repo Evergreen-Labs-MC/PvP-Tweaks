@@ -15,16 +15,16 @@ By strategically lowering first-person shield profiles, shortening weapon models
 
 ---
 
-# License
+## License
 
 Copyright (c) 2026 lofier / Evergreen Labs. All rights reserved.
 
-All visual assets, models, textures, and configuration files contained within this resource pack are entirely proprietary.
+All visual assets, models, textures, and configuration files contained within this resource pack are entirely proprietary. You can read the full legal agreement in our **[LICENSE.md](LICENSE.md)** file.
 
-## Restrictions
+### Restrictions
 * **No Modification:** You may not edit, recolor, alter, or transform any textures or models included in this pack for public release.
 * **No Copying or Redistribution:** You may not extract assets to use in your own resource pack, re-upload this pack to other websites, or include it in "remix" packs without explicit written permission.
 
-## Permitted Use
+### Permitted Use
 * Players are permitted to download, install, and use this resource pack for personal gameplay exclusively through authorized channels (such as Modrinth).
 * Content creators are permitted to showcase this resource pack in videos, streams, and screenshots, provided they do not redistribute the actual pack files.
